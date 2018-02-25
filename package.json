@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rootwizzy/Seidr.git"
+    "url": "git+https://github.com/rootwizzy/Seidr-Components.git"
   },
   "keywords": [
     "React",
@@ -23,9 +23,9 @@
   "author": "Zachary Johnson <rootwizzy@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rootwizzy/Seidr/issues"
+    "url": "https://github.com/rootwizzy/Seidr-Components/issues"
   },
-  "homepage": "https://github.com/rootwizzy/Seidr#readme",
+  "homepage": "https://github.com/rootwizzy/Seidr-Components#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
