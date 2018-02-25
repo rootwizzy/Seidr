@@ -31,3 +31,4 @@ Based on the work from [Patternlab.io](http://patternlab.io/docs/index.html)
 - Inline Elements
 - Paragraph
 - Performmated Text
+- Label
